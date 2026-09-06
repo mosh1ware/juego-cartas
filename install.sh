@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 echo "instalando script de juego de cartas de karioca y mil "
 sudo cp cartas.sh /usr/local/bin/cts

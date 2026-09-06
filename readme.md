@@ -10,5 +10,6 @@ Puedes instalar el comando cts ejecutando:
 
 ```bash
 git clone https://github.com/mosh1ware/juego-cartas.git
-cd juego-cartas
+mv juego.cartas .juego-cartas
+cd .juego-cartas
 bash install.sh
